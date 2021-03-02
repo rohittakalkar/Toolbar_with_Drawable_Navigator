@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Navigation With Fragments</string>
+    <string name="open">Open Action</string>
+    <string name="close">Close Action</string>
+
+</resources>
